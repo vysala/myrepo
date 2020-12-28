@@ -1,2 +1,2 @@
 # myrepo
-Just for a beginner
+Just for a beginner to understand git working 
